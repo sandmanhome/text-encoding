@@ -1,3 +1,8 @@
+### ws-text-encoding
+remove encoding-indexex.js for fix 'Maximum call stack size exceeded' error on miniprogram
+Please note the following [Encodings]
+==============
+
 text-encoding
 ==============
 
